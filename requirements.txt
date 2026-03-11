@@ -1,0 +1,7 @@
+flask==3.0.0
+requests==2.31.0
+
+# Optional — file attachment support:
+# pip install pymupdf       ← PDF support
+# pip install python-docx   ← DOCX support
+# pip install python-pptx   ← PPTX support
